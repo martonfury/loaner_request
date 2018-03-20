@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>item_type</element>
+        <name>x_snc_loaner_reque_loaner_request</name>
+        <style>background-color:LightSteelBlue;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-20 08:25:53</sys_created_on>
+        <sys_id>ab886f0c980513007f440b1171492522</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_loaner_reque_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">08f3237f987013007f440b117149253b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">08f3237f987013007f440b117149253b</sys_scope>
+        <sys_update_name>sys_ui_style_ab886f0c980513007f440b1171492522</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-20 08:25:53</sys_updated_on>
+        <value>cmdb_ci_mobile_device</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab886f0c980513007f440b1171492522"/>
+</record_update>
